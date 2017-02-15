@@ -21,4 +21,5 @@ brew install commandbox
 brew cask install docker
 brew cask install vagrant
 brew cask install virtualbox
+brew cask install parallels-desktop
 
