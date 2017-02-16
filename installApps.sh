@@ -22,4 +22,7 @@ brew cask install docker
 brew cask install vagrant
 brew cask install virtualbox
 brew cask install parallels-desktop
+#git client and file compare
+brew cask install kaleidoscope
+brew cask install tower
 
